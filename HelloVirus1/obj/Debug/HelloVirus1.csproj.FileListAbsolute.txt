@@ -1,0 +1,9 @@
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\bin\Debug\HelloVirus1.exe.config
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\bin\Debug\HelloVirus1.exe
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\bin\Debug\HelloVirus1.pdb
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\obj\Debug\HelloVirus1.csprojResolveAssemblyReference.cache
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\obj\Debug\HelloVirus1.Properties.Resources.resources
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\obj\Debug\HelloVirus1.csproj.GenerateResource.Cache
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\obj\Debug\HelloVirus1.exe
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\obj\Debug\HelloVirus1.pdb
+c:\users\arya\documents\visual studio 2015\Projects\HelloVirus\HelloVirus1\obj\Debug\HelloVirus1.MainForm.resources
