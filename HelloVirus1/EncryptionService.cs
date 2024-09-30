@@ -18,7 +18,7 @@ namespace HelloVirus1
         }
 
 
-        public string Encrypt(string plainText)
+        public static string Encrypt(string plainText)
         {
             using (Aes aes = Aes.Create())
             {

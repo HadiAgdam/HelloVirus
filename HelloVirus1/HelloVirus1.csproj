@@ -54,6 +54,7 @@
     <Compile Include="CommandHandler.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="EncryptionService.cs" />
+    <Compile Include="Log.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
